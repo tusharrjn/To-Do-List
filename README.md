@@ -20,7 +20,7 @@ You can check out the live demo of the Todo List web app [here](https://tusharrj
 
 ## Screenshots
 
-![image](https://github.com/tusharrjn/Todo-List/blob/main/Screenshot.png)
+![image](https://github.com/tusharrjn/To-Do-List/blob/main/Screenshot.png)
 
 
 ## Technologies Used
